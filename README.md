@@ -1,9 +1,4 @@
-# 🧪 QA Portfolio - ручное тестирование Web UI + REST API
-
-![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue)
-![API](https://img.shields.io/badge/API-Postman%20%7C%20Newman-orange)
-![Docs](https://img.shields.io/badge/Docs-Test%20Plan%20%7C%20Test%20Cases%20%7C%20Bug%20Reports-green)
-
+# QA Portfolio - ручное тестирование Web UI + REST API
 Полный цикл ручного тестирования
 
 | Объект | Тип | Ссылка |
